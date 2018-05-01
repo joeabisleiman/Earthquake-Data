@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EarthquakeViewer</string>
+    <string name="retrieveData">Retrieve Data</string>
+</resources>
